@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
+body{
+    background: linear-gradient(to right, rgb(110, 75, 22) 150px, rgba(57, 59, 22, 0.64) 100%), url('../img/kanakarri.jpg');
+    background-size: 100%;
+}
+
+.img{
+    text-align: center;
+    opacity: 0.75;
+}
+
+.img:hover{
+    transform: scaleX(-1);
+}
+
+.pilt{
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.hr1{
+    border: dashed;
+    color: yellow;
+}
+
+.hr2{
+    border: dashed;
+    color: yellow;
+}
+
+.hr3{
+    border: dashed;
+    color: yellow;
+}
+
+.hr4{
+    border: dashed;
+    color: yellow;
+}
+
+.hr5{
+    border: dashed;
+    color: yellow;
+}
+
+.hr6{
+    border: dashed;
+    color: yellow;
+}
+
+.main{
+    text-align: center;
+    color: yellow;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.pealkiri{
+    font-family: 'Inconsolata', monospace;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.tekst{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1rem;
+}
+
+.tabel1{
+    margin: 0 auto;
+    color: yellow;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.tabel1 th{
+    font-size: 20px;
+    padding-right: 10rem;
+    text-transform: uppercase;
+    font-family: 'Inconsolata', monospace;
+    text-align: left;   
+}
+
+.tabel1 td{
+    padding-left: 10rem;
+    text-align: right;
+    font-family: 'Inconsolata', monospace;
+} 
+
+.link{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.link a{
+    color: yellow;
+}
+
+.p2{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.pealkiri2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: yellow;
+    font-family: 'Inconsolata', monospace;
+}
+
+.p2 ul{
+    list-style: none;
+    margin-right: 2.5rem;
+    color: yellow;
+}
+
+.valmistamine{
+    text-align: center;
+    color: yellow;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.valmistamine ol{
+    margin: 0 auto;
+    width: 30%;
+    text-align: left;
+}
+
+.footer{
+    text-align: center;
+    color: yellow;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
